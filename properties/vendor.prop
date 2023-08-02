@@ -12,6 +12,30 @@ debug.sf.frame_rate_multiple_threshold=120
 ro.hardware.hwcomposer=sweet
 vendor.display.override_doze_mode=1
 
+# Disable logs
+config.stats=0
+debug.atrace.tags.enableflags=0
+debug.mdpcomp.logs=0
+debug.systemui.latency_tracking=0
+debugtool.anrhistory=0
+logd.statistics=0
+media.metrics=0
+media.metrics.enabled=0
+persist.sample.eyetracking.log=0
+persist.sys.loglevel=0
+persist.traced.enable=0
+profiler.debugmonitor=false
+profiler.force_disable_err_rpt=true
+profiler.force_disable_ulog=true
+profiler.hung.dumpdobugreport=false
+profiler.launch=false
+ro.com.google.locationfeatures=0
+ro.com.google.networklocation=0
+ro.debuggable=1
+sys.debug.watchdog=0
+sys.log.app=0
+trustkernel.log.state=disable
+
 # Fingerprint
 persist.vendor.fingerprint.type=side
 persist.vendor.fingerprint.sensor_location=1080|990|200|local:4630946711218184577
