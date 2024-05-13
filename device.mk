@@ -28,7 +28,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     DSPVolumeSynchronizer \
     XiaomiDolby \
-    XiaomiDolbyResCommon
+    XiaomiDolbyResCommon \
+    XiaomiParts
 
 # Display
 PRODUCT_COPY_FILES += \
