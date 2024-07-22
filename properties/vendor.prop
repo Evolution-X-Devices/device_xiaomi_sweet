@@ -28,5 +28,8 @@ debug.hwui.use_hint_manager=true
 debug.sf.enable_adpf_cpu_hint=true
 debug.hwui.target_cpu_time_percent=30
 
+# Increase max cached processes
+activity_manager.max_cached_processes=64
+
 # System properties
 ro.product.property_source_order=odm,vendor,product,system_ext,system
