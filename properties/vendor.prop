@@ -23,5 +23,9 @@ persist.vendor.fingerprint.sensor_location=1080|990|200|local:463094671121818457
 # Fluence
 ro.vendor.audio.sdk.fluencetype=fluence
 
+# HWUI
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=30
+
 # System properties
 ro.product.property_source_order=odm,vendor,product,system_ext,system
