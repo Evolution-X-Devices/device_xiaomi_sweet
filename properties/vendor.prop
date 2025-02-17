@@ -25,6 +25,7 @@ ro.vendor.audio.sdk.fluencetype=fluence
 
 # HWUI
 debug.hwui.use_hint_manager=true
+debug.sf.enable_adpf_cpu_hint=true
 debug.hwui.target_cpu_time_percent=30
 
 # System properties
