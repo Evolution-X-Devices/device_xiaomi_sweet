@@ -1,0 +1,50 @@
+[
+  {
+    "remote": "evo-devices",
+    "repository": "device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "vic"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "sweet-organization/android_kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "vic"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "sweet-organization/android_device_xiaomi_miuicamera-sweet",
+    "target_path": "device/xiaomi/miuicamera-sweet",
+    "branch": "vic"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "sweet-organization/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch": "vic"
+  },
+  {
+    "remote": "github-non-los",
+    "repository": "sweet-organization/android_packages_apps_ViPER4AndroidFX",
+    "target_path": "packages/apps/ViPER4AndroidFX",
+    "branch": "vic"
+  },
+  {
+    "remote": "codeberg",
+    "repository": "sweet-organization/proprietary_vendor_xiaomi_sweet",
+    "target_path": "vendor/xiaomi/sweet",
+    "branch": "vic"
+  },
+  {
+    "remote": "codeberg",
+    "repository": "sweet-organization/proprietary_vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common",
+    "branch": "vic"
+  },
+  {
+    "remote": "codeberg",
+    "repository": "sweet-organization/proprietary_vendor_xiaomi_miuicamera-sweet",
+    "target_path": "vendor/xiaomi/miuicamera-sweet",
+    "branch": "vic"
+  }
+]
