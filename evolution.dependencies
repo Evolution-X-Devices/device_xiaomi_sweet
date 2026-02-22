@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "LineageOS/android_device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "branch": "lineage-23.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi_sm6150-common",
+    "target_path": "vendor/xiaomi/sm6150-common",
+    "branch": "lineage-23.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_xiaomi_sweet",
+    "target_path": "vendor/xiaomi/sweet",
+    "branch": "lineage-23.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "LineageOS/android_kernel_xiaomi_sm6150",
+    "target_path": "kernel/xiaomi/sm6150",
+    "branch": "lineage-23.2",
+    "remote": "github-non-los"
+  },
+  {
+    "repository": "hardware_xiaomi",
+    "target_path": "hardware/xiaomi"
+  }
+]
