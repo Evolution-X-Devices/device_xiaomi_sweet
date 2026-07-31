@@ -100,3 +100,6 @@ PRODUCT_PACKAGES += \
 
 # Call the proprietary setup
 $(call inherit-product, vendor/xiaomi/sweet/sweet-vendor.mk)
+
+# MiuiCamera
+$(call inherit-product-if-exists, vendor/miuicamera-sweet/device.mk)
